@@ -1,8 +1,14 @@
 from shutil import copyfile
+import os
 import cv2
 import en_stego
 import de_stego
 
+# Create dist if it doesn't exist
+if not os.path.exists('dist'):
+    os.makedirs('dist')
+
+# Copy sample files to dist
 copyfile('./samples/strawberries.png', './dist/strawberries.png')
 copyfile('./samples/violet.png', './dist/violet.png')
 
