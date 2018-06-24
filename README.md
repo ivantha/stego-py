@@ -1,4 +1,4 @@
-# stego-js
+# stego-py
 
 ## Installation
 
