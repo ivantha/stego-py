@@ -33,7 +33,7 @@ When decrypting the image, we unmerge the last 4 bits (least significant) from t
 Use de_stego.show().Give you own file path for the image you want to decrypt in,
 
 ```
-de_image = de_stego.show('./dist/en.png')
+de_image = de_stego.show([image path])
 ```
 
 find the decrypted images in the dist folder.
