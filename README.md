@@ -22,7 +22,7 @@ en_image = en_stego.hide([parent image path],[child image path])
 ```
 
 find the encypted image in the dist folder.
-For this your parent image should be same or larger in size than the child image.
+For this, your parent image size should be same or larger than the child image.
 
 ### Decryption
 
