@@ -43,11 +43,11 @@ find the decrypted images in the dist folder.
 
 ### Installation - OpenCV 3 with python 3
 
-### MacOS
+#### MacOS
 https://www.pyimagesearch.com/2016/11/28/macos-install-opencv-3-and-python-2-7/
 
-### Ubuntu
+#### Ubuntu
 https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
 
-### Windows
+#### Windows
 https://solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/
