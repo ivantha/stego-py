@@ -1,4 +1,4 @@
-# stego-py
+# StegoPy
 
 ## Installation
 
